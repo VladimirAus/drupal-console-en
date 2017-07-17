@@ -17,10 +17,9 @@ $ composer require drupal/console:~1.0 --prefer-dist --optimize-autoloader
 
 ### Install Drupal Console launcher
 
-In order to avoid conflicts between Drupal release and have a Drupal Console version between major and minor releases in Drupal,  a Drupal Console launcher was created. n order to facilitate to load the Drupal Console commands available to each
-Drupal 8 website,
+Drupal Console launcher was created to avoid conflicts between major and minor releases. Drupal Console binary commands are available to every instance of Drupal 8 website.
  
-Following the instruction below you could install the global application for Drupal Console launcher. 
+To install Drupal Console launcher globally follow the instruction below. 
 
 ```
 $ curl https://drupalconsole.com/installer -L -o drupal.phar
@@ -33,7 +32,7 @@ $ chmod +x /usr/local/bin/drupal
 
 ### Contribute
 
-If you want to contribute to this translation, you need to follow this steps
+Follow the steps below to contribute to th efollowing translation:
 
 - Fork this repository following this link [https://github.com/hechoendrupal/drupal-console-en#fork-destination-box](https://github.com/hechoendrupal/drupal-console-en#fork-destination-box)
 - Clone your repostory forked in your local machine.
