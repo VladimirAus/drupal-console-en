@@ -17,7 +17,7 @@ $ composer require drupal/console:~1.0 --prefer-dist --optimize-autoloader
 
 ### Install Drupal Console launcher
 
-Drupal Console launcher was created to avoid conflicts between major and minor releases. Drupal Console binary commands are available to every instance of Drupal 8 website.
+Drupal Console launcher was created to avoid conflicts between major and minor releases. Drupal Console binary commands are available to every Drupal 8 instance on the machine.
  
 To install Drupal Console launcher globally follow the instruction below. 
 
