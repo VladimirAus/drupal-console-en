@@ -34,21 +34,8 @@ $ chmod +x /usr/local/bin/drupal
 
 Follow these steps to contribute to the current translation:
 
-- Fork this repository via link [https://github.com/hechoendrupal/drupal-console-en#fork-destination-box](https://github.com/hechoendrupal/drupal-console-en#fork-destination-box)
-- Clone your forked repostory to your local machine.
-- Set up upstream
-
-To receive the latest repository updates you must connect your fork to the main repository using the following git command
-
-```
-$ git remote add upstream git@github.com:hechoendrupal/drupal-console-en.git
-```
-
-To fetch the latest contribution before to start, you must run the next commands
-
-```
-$ git fetch upstream
-$ git merge upstream/master
-```
+- [Project requirements](https://docs.drupalconsole.com/en/contributing/project-requirements.html)
+- [Getting the project](https://docs.drupalconsole.com/en/contributing/getting-the-project.html)
+- [Running the project](https://docs.drupalconsole.com/en/contributing/running-the-project.html)
 
 N.B: Push your changes to your forked repository in order to create PR per day to avoid any conflicts with other contributors.
